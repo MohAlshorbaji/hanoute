@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199127250118",
+    "firebase_url": "https://hanoute-35049.firebaseio.com",
+    "project_id": "hanoute-35049",
+    "storage_bucket": "hanoute-35049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199127250118:android:a38d07fa126df718c393c7",
+        "android_client_info": {
+          "package_name": "com.example.hanoute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199127250118-eb6h83i8diigjo40m7uv1f0pt3m4ks30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hanoute",
+            "certificate_hash": "ab2b0598f2efe8756e855667cbd5acc428df2b1a"
+          }
+        },
+        {
+          "client_id": "199127250118-ljne43n8rjua7q34j0jehjc0mgh58rpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4andeleKFlG_q1_-_nI2MNgbOaD-1B0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199127250118-ljne43n8rjua7q34j0jehjc0mgh58rpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Appjas</string>
+    <string name="name">الإسم و اللقب </string>
+    <string name="types">نوع التجارة </string>
+    <string name="storename">إسم المحل </string>
+    <string name="selectcity">أختر الولاية </string>
+    <string name="email">البريد الالكتروني </string>
+    <string name="password">الرقم السري </string>
+    <string name="login">تسجيل الدخول  </string>
+
+    <string name="don_t_have_an_account">لا أمتلك حساب  </string>
+
+    <string name="forget_your_passwword"> هل نسيت كلمة المرور   </string>
+    <string name="register">تسجيل</string>
+    <string name="singin">إشتراك </string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+
+    </string-array>
+</resources>
